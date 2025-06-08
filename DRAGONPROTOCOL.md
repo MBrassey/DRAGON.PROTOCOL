@@ -68,23 +68,6 @@ TABLE OF CONTENTS
   - [The First Digital Timechain: Bitcoin's Revolutionary Breakthrough](#the-first-digital-timechain-bitcoins-revolutionary-breakthrough)
   - [The Fundamental Constants That Make Reality Possible](#the-fundamental-constants-that-make-reality-possible)
 
-- [THE DRAGON'S FIRE: PROGRAMMABLE ENERGY SYSTEMS](#the-dragons-fire-programmable-energy-systems)
-
-- [Energy as the Foundation of Reality](#energy-as-the-foundation-of-reality)
-- [The Synergy of Energy and Consciousness](#the-synergy-of-energy-and-consciousness)
-- [Programmable Energy Infrastructure](#programmable-energy-infrastructure)
-- [The Bitcoin-Energy Convergence](#the-bitcoin-energy-convergence)
-- [Decentralized Energy Sovereignty](#decentralized-energy-sovereignty)
-- [Digital-Physical Energy Integration](#digital-physical-energy-integration)
-- [The Noble Purpose of Energy Expenditure](#the-noble-purpose-of-energy-expenditure)
-- [The Practical Manifestation of the Dragon's Fire](#the-practical-manifestation-of-the-dragons-fire)
-- [The Mathematical Nature of Love as Organization](#the-mathematical-nature-of-love-as-organization)
-- [Decentralized Systems as Expressions of Love](#decentralized-systems-as-expressions-of-love)
-- [Regenerative Economics Through Love](#regenerative-economics-through-love)
-- [Consciousness as the Foundation](#consciousness-as-the-foundation)
-- [Practical Applications of Love-Based Organization](#practical-applications-of-love-based-organization)
-- [The Infinite Game of Love](#the-infinite-game-of-love)
-
 - [PART I: FOUNDATIONS OF THE PROTOCOL](#part-i-foundations-of-the-protocol)
 - [Chapter 1: The Dragon Awakens](#chapter-1-the-dragon-awakens)
 - [Practical Participation: Your Role in the Transformation](#practical-participation-your-role-in-the-transformation)
@@ -164,7 +147,7 @@ TABLE OF CONTENTS
 
 - [PART III: THE INFORMATION REVOLUTION](#part-iii-the-information-revolution)
 
-#- [Chapter 5: Uncensored](#chapter-5-uncensored)
+- [Chapter 5: Uncensored](#chapter-5-uncensored)
 - [How Ordinary People Experience Information Control](#how-ordinary-people-experience-information-control)
 - [Practical Ways to Resist Information Control](#practical-ways-to-resist-information-control)
 - [The Architecture of Truth](#the-architecture-of-truth)
