@@ -241,22 +241,17 @@ TABLE OF CONTENTS
 - [Practical Applications of Love-Based Organization](#practical-applications-of-love-based-organization-1)
 - [The Infinite Game of Love](#the-infinite-game-of-love-1)
 
----
-
-- [Epilogue: The Finite Game Begins](#epilogue-the-finite-game-begins)
-  - [The Mathematical Foundations](#the-mathematical-foundations-1)
-  - [The Technological Convergence](#the-technological-convergence-1)
-  - [The Energy Revolution](#the-energy-revolution-1)
-  - [The Information Transformation](#the-information-transformation-1)
-  - [The Bridge to Implementation](#the-bridge-to-implementation)
-  - [The Practical Invitation](#the-practical-invitation)
-  - [The Mathematical Inevitability](#the-mathematical-inevitability)
-  - [The Finite Game](#the-finite-game-1)
-  - [The Dragon's Practical Gift](#the-dragons-practical-gift)
-  - [The Implementation Begins Now](#the-implementation-begins-now)
-- [About the Author](#about-the-author)
-- [Comprehensive Index](#comprehensive-index)
-- [Practical Implementation Guide for Everyone](#practical-implementation-guide-for-everyone)
+## [EPILOGUE: THE FINITE GAME BEGINS](#epilogue-the-finite-game-begins)
+- [The Mathematical Foundations](#the-mathematical-foundations-1)
+- [The Technological Convergence](#the-technological-convergence-1)
+- [The Energy Revolution](#the-energy-revolution-1)
+- [The Information Transformation](#the-information-transformation-1)
+- [The Bridge to Implementation](#the-bridge-to-implementation)
+- [The Practical Invitation](#the-practical-invitation)
+- [The Mathematical Inevitability](#the-mathematical-inevitability)
+- [The Finite Game](#the-finite-game-1)
+- [The Dragon's Practical Gift](#the-dragons-practical-gift)
+- [The Implementation Begins Now](#the-implementation-begins-now)
 
 # THE DRAGON'S FIRE: PROGRAMMABLE ENERGY SYSTEMS
 
